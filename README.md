@@ -1,2 +1,3 @@
 # Data_Analysis
-my data analysis projects plus topics walkthrough 
+* 1st project walmart sales
+* 2nd project movies analysis
